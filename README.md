@@ -1,4 +1,4 @@
-Puedes ver el sistema en acción en el siguiente enlace:
+Puedes probar SenTagram en el siguiente enlace:
 
 https://tigluzi.nyc.dom.my.id/login
 
